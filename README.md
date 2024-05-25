@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /> </div>
 <h1 align="center">Hi 👋, I'm Aurore Divine</h1>
-<h3 align="center">A Junior fullstack developer from Paris</h3>
+<h3 align="center">A Junior fullstack developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://aurore-mb.github.io/auroredev.github.io/](https://aurore-mb.github.io/auroredev.github.io/)
 
