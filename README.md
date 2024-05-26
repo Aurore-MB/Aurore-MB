@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aurore Divine</h1>
+<h1 align="center">Heya 👋, I'm Aurore Divine</h1>
 <h3 align="center">A Junior fullstack developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://aurore-mb.github.io/auroredev.github.io/](https://aurore-mb.github.io/auroredev.github.io/)
